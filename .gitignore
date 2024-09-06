@@ -1,0 +1,11 @@
+*.pdf
+*.docx
+*.log
+*.tex
+*.jpg
+*.eps
+*.mat
+*.pptx
+*.aux
+*.fig
+*.gz
